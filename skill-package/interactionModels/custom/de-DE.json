@@ -19,11 +19,10 @@
           "name": "PlayAudioIntent",
           "slots": [],
           "samples": [
-            "spiele musik",
-            "stoppe musik",
-            "starte musik",
-            "spiele meine musik"
-            "stoppe meine musik"
+            "start my audio",
+            "play my audio",
+            "start audio",
+            "play audio"
           ]
         },
         {
